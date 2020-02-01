@@ -1,4 +1,4 @@
-// you can make the bubble smaller by lowering the radius
+// you can make the bubble smaller by lowering the radius amount
 
 var x;
 var y;
