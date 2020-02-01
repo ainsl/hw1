@@ -1,7 +1,3 @@
-// the first fill dictates the color of the bubble when the mouse is hovering over it, you can tell from the placement of the curly brackets
-
-// the second fill dictates the color of the bubble when the mouse is not over it, you can tell from "else"
-
 // you can make the bubble smaller by lowering the radius
 
 var x;
