@@ -7,4 +7,7 @@ Example: fill(__, __, __,) specifies the RGB value for a shape's color.
 Fill is the interior of the shape
 Stroke is the outline of the shape
 
-3.
+3. Console screenshot – see "ConsoleErrors.png"
+
+4. The keyboard shortcut to open the JavaScript console in Chrome on my system:
+Command + Option + J
